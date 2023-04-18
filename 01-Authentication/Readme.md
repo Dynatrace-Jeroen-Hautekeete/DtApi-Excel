@@ -3,7 +3,7 @@
 ## Authentication
 
 The next Dynatrace API endpoint will be the clusterversion. This endpoint requires authentication.
-- https://<tenantURL>/api/v1/config/clusterversion
+- https://{tenantURL}/api/v1/config/clusterversion
 
 ### Copy the 'Time' Excel sheet
 

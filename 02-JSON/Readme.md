@@ -19,7 +19,7 @@ From the 'Home' menu, click 'Advanced Editor'
 In the editor, replace the script with following code
 
      let
-         Source = Json.Document(Web.Contents("https://fbj16975.sprint.dynatracelabs.com/api/v1/config/clusterversion",[ApiKeyName="api-token"]), 65001)})
+         Source = Json.Document(Web.Contents("https://fbj16975.sprint.dynatracelabs.com/api/v1/config/clusterversion",[ApiKeyName="api-token"]), 65001)
      in
          Source
 
